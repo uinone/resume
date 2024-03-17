@@ -42,7 +42,6 @@ body > h1 {
 
 .bold {
     font-weight: 400;
-    padding-bottom: .5vh;
 }
 
 .inline-bold {
@@ -54,8 +53,8 @@ body > h1 {
     height: 1px;
     background-color: #2e2e2e;
 
-    margin-top: .8vh;
-    margin-bottom: 2vh;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
 }
 
 .block {
@@ -64,7 +63,7 @@ body > h1 {
 
     flex-direction: column;
 
-    margin-bottom: 2vh;
+    margin-bottom: 4vh;
 }
 
 .block > h1 {
@@ -79,7 +78,7 @@ body > h1 {
 
     align-items: center;
 
-    margin-bottom: 3vh;
+    margin-bottom: 10vh;
 }
 
 .block .terms {
@@ -101,8 +100,8 @@ body > h1 {
 .block .details {
     display: flex;
     flex-direction: column;
-    margin-top: .6vh;
-    margin-bottom: 1vh;
+    margin-top: 1.2vh;
+    margin-bottom: 1.2vh;
     font-size: 1vw;
     font-style: italic;
 }
@@ -115,8 +114,9 @@ body > h1 {
     display: flex;
     flex-direction: column;
     font-size: 1.3vw;
+    margin-top: 2vh;
 }
 
 .block .description {
-    margin-bottom: .3vh;
+    margin-bottom: 1vh;
 }
