@@ -17,6 +17,11 @@ body {
     overflow-x: hidden;
 }
 
+a {
+    text-decoration: underline;
+    color: #4da87ea1;
+}
+
 body > h1 {
     font-size: 3vw;
     text-align: center;
@@ -36,7 +41,7 @@ body > h1 {
 }
 
 .infos .title {
-    color: #4da87d;
+    color: #4da87e;
     width: 15%;
     font-weight: 500;
 }
