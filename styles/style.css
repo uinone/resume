@@ -138,6 +138,7 @@ body > h1 {
     flex-direction: column;
     font-size: 1.3vw;
     margin-top: 2vh;
+    line-height: 1.2;
 }
 
 .block .description {
