@@ -108,7 +108,13 @@ body > h1 {
     width: 15%;
     height: 100%;
 
-    text-align: start;
+    flex-direction: column;
+
+    align-items: start;
+}
+
+.block .terms .duration {
+    font-size: 0.8vw;
 }
 
 .block .content {
